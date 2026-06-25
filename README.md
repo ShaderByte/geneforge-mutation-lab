@@ -6,6 +6,10 @@ Built by **ShaderByte**.
 
 ## Download
 
+Use GeneForge in a mobile browser:
+
+https://shaderbyte.github.io/geneforge-mutation-lab/
+
 Download the Windows app directly from this repository:
 
 - [GeneForge Mutation Lab Setup 1.1.0.exe](downloads/GeneForge%20Mutation%20Lab%20Setup%201.1.0.exe)
