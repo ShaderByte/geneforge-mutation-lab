@@ -23,6 +23,12 @@ https://github.com/ShaderByte/geneforge-mutation-lab/releases
 
 Windows may show a SmartScreen warning until the app builds reputation or gets code-signed.
 
+## Intro Video
+
+Watch the quick GeneForge overview:
+
+[GeneForge intro video](media/geneforge-intro-1080p.mp4)
+
 ## Community
 
 Join the ShaderByte Discord for GeneForge support, build discussion, and feature requests:
