@@ -1,8 +1,8 @@
 # GeneForge Mutation Lab
 
-**GeneForge Mutation Lab** is a Windows desktop planner for ARK creature stat and mutation builds. It helps players compare level 1 adult/tamed stat values, assign wild stat points, preview 100% imprint results, and share saved builds.
+**GeneForge Mutation Lab** is a closed-source Windows desktop planner for ARK creature stat and mutation builds. It helps players compare level 1 adult/tamed stat values, assign wild stat points, preview 100% imprint results, and share saved builds.
 
-Built by **ShaderByte**.
+Built and owned by **ShaderByte**.
 
 ## Download
 
@@ -12,8 +12,8 @@ https://shaderbyte.github.io/geneforge-mutation-lab/
 
 Download the Windows app directly from this repository:
 
-- [GeneForge Mutation Lab Setup 1.1.3.exe](downloads/GeneForge%20Mutation%20Lab%20Setup%201.1.3.exe)
-- [GeneForge Mutation Lab 1.1.3.exe](downloads/GeneForge%20Mutation%20Lab%201.1.3.exe)
+- [GeneForge Mutation Lab Setup 1.1.4.exe](downloads/GeneForge%20Mutation%20Lab%20Setup%201.1.4.exe)
+- [GeneForge Mutation Lab 1.1.4.exe](downloads/GeneForge%20Mutation%20Lab%201.1.4.exe)
 
 The setup file installs GeneForge like a normal Windows app. The portable file runs without installation.
 
@@ -64,6 +64,12 @@ Some unusual creatures have special tamed stat adjustments. GeneForge includes h
 ## Disclaimer
 
 GeneForge Mutation Lab is an unofficial companion tool. It is not affiliated with, endorsed by, sponsored by, or connected to Studio Wildcard, Snail Games, or the ARK franchise owners.
+
+## License
+
+GeneForge Mutation Lab is proprietary ShaderByte software. Personal use is allowed. Copying, redistributing, reselling, reverse engineering, or rebranding the app is not permitted without written permission from ShaderByte.
+
+See [LICENSE.md](LICENSE.md).
 
 ## Source Code
 
