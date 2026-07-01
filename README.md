@@ -12,8 +12,8 @@ https://shaderbyte.github.io/geneforge-mutation-lab/
 
 Download the Windows app directly from this repository:
 
-- [GeneForge Mutation Lab Setup 1.1.5.exe](downloads/GeneForge%20Mutation%20Lab%20Setup%201.1.5.exe)
-- [GeneForge Mutation Lab 1.1.5.exe](downloads/GeneForge%20Mutation%20Lab%201.1.5.exe)
+- [GeneForge Mutation Lab Setup 1.1.6.exe](downloads/GeneForge%20Mutation%20Lab%20Setup%201.1.6.exe)
+- [GeneForge Mutation Lab 1.1.6.exe](downloads/GeneForge%20Mutation%20Lab%201.1.6.exe)
 
 The setup file installs GeneForge like a normal Windows app. The portable file runs without installation.
 
